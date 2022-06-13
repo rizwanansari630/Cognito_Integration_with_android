@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cognito Integration</string>
+    <string name="user_pool_id">us-east-1_5zMkC17jk</string>
+    <string name="client_id">5mq23l1oi62qk09632cnkbidai</string>
+    <string name="client_secret">176k9m5ei8o2i3a6hi7taambteb8nblmqpu3keii2c1p2g5cvpfg</string>
+    <string name="region">us-east-1</string>
 </resources>
